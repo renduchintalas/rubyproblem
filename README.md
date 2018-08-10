@@ -1,4 +1,4 @@
-#selenium-cucumber-problem1
+#rubyproblem1
 
 ### Getting Started
       1. Ensure you have the firefox or chrome browser installed - install chromedriver if using chrome
